@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai kumar
 
-<!--
-**saikumar0231/saikumar0231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Power BI Developer** with 2+ years of experience
+🔹 Expertise in building dashboards, DAX, Power Query
+🔹 Domain: Health Insurance, Banking, Mortgage
 
-Here are some ideas to get you started:
+## 💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **BI Tools**: Power BI,
+* **Data**: SQL Server, PostgreSQL, Excel
+* **ETL**: Power Query
+* **Programming**: DAX, M Language, SQL
+* **Tools**: Git, Power BI Service, Excel
+
+## 📫 Contact Me
+
+* ✉️ Email: [ksai6076@gmail.com](mailto:ksai6076@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/sai-kumar-a8223821a/](https://www.linkedin.com/in/sai-kumar-a8223821a/)
+
